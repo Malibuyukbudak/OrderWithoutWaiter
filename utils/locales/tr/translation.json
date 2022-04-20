@@ -1,0 +1,24 @@
+{
+  "error": {
+    "rowNotFound": "Bilgi bulunamadı",
+    "errorStatus": "Hata",
+    "pageNotFound": "Sayfa bulunamadı",
+    "refusedConnection": "bağlantı reddedildi",
+    "notFound": "bulunamadı",
+    "internalServer": "Sunucu Hatası",
+    "error": "Hata"
+  },
+  "product": {
+    "addProduct": "Ürün eklendi",
+    "updateProduct": "Ürün güncellendi",
+    "deleteProduct": "Ürün silindi"
+  },
+  "validation": {
+    "companyName": "Lütfen geçerli şirket ismi giriniz",
+    "companyPassword": "Lütfen geçerli şifre giriniz",
+    "productType": "Lütfen geçerli ürün tipi giriniz",
+    "productName": "Lütfen geçerli ürün ismi giriniz",
+    "productSalary": "Lütfen geçerli ürün fiyatı giriniz",
+    "productId": "Lütfen geçerli ürün id'si giriniz"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "error": {
+    "rowNotFound": "Row not found",
+    "errorStatus": "Error",
+    "pageNotFound": "Page not found",
+    "refusedConnection": "refused connection",
+    "notFound": "not found",
+    "internalServer": "Internal Server Error",
+    "error": "Error"
+  },
+  "product": {
+    "addProduct": "Added product",
+    "updateProduct": "Updated product",
+    "deleteProduct": "Deleted product"
+  },
+  "validation": {
+    "companyName": "Invalid company name",
+    "companyPassword": "Invalid company password",
+    "productType": "Invalid product type",
+    "productName": "Invalid product name",
+    "productSalary": "Invalid product salary",
+    "productId": "Invalid product id"
+  }
+}
