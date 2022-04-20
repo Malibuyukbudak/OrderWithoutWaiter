@@ -3,8 +3,8 @@ const { body, query } = pkg;
 
 export const loginValidation = () => {
     return [
-        body("companyName").isLength({ min: 8 }).withMessage("validation.companyName"),
-        body("companyPassword").isLength({ min: 8 }).withMessage("validation.companyPassword")
+        body("companyName").isLength({ min: 2 }).withMessage("validation.companyName"),
+        body("companyPassword").isLength({ min: 2 }).withMessage("validation.companyPassword")
     ];
 };
 
